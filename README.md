@@ -58,9 +58,3 @@ The purpose of this project is to demonstrate Sentiment Analysis using Natural L
 Inspired by:
 
 `https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis/data`
-
-***
-
-Inspired by:
-
-`https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis/data`
