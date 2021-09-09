@@ -35,6 +35,30 @@ The purpose of this project is to demonstrate Sentiment Analysis using Natural L
     pip install -r requirements.txt
     ```
    
+
+***   
+
+#### Wordcloud image for positive words:
+
+![wordcloud_for_positive](positive.png)
+
+
+#### Wordcloud image for negative words:
+
+![wordcloud_for_negative](negative.png)
+
+
+#### Wordcloud image for word features:
+
+![wordcloud_for_features](features.png)
+
+
+***
+
+Inspired by:
+
+`https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis/data`
+
 ***
 
 Inspired by:
